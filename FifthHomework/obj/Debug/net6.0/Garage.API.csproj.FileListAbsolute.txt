@@ -25,9 +25,6 @@ C:\Users\Supre\source\repos\FifthHomework\FifthHomework\obj\Debug\net6.0\refint\
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\obj\Debug\net6.0\Garage.API.pdb
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\obj\Debug\net6.0\Garage.API.genruntimeconfig.cache
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\obj\Debug\net6.0\ref\Garage.API.dll
-C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.deps.json
-C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.runtimeconfig.json
-C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.exe
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\MessagePack.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -264,7 +261,5 @@ C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\runtime
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.BusinessLogic.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Model.dll
-C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.BusinessLogic.pdb
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Model.pdb
-C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.pdb

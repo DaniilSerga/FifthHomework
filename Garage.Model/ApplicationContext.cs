@@ -9,7 +9,7 @@ namespace Garage.Model
         public DbSet<Driver> Drivers { get; set; } = null!;
 
         public ApplicationContext(DbContextOptions<ApplicationContext> options)
-            : base (options)
+            : base(options)
         {
         }
     }

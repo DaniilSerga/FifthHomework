@@ -9,6 +9,11 @@ namespace Garage.BusinessLogic.Services.Implementations
     {
         private readonly ApplicationContext _context;
 
+        public DriverService(ApplicationContext context)
+        {
+            _context = context;
+        }
+
         public List<Driver> GetDrivers() => _context.Drivers.AsNoTracking().ToList();
 
         public Driver Get(int id)

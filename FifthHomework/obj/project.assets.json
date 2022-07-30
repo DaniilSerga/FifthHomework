@@ -3161,16 +3161,6 @@
         "runtime": {
           "bin/placeholder/Garage.Model.dll": {}
         }
-      },
-      "Garage.Parser/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Garage.Parser.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Garage.Parser.dll": {}
-        }
       }
     }
   },
@@ -9696,18 +9686,12 @@
       "type": "project",
       "path": "../Garage.Model/Garage.Model.csproj",
       "msbuildProject": "../Garage.Model/Garage.Model.csproj"
-    },
-    "Garage.Parser/1.0.0": {
-      "type": "project",
-      "path": "../Garage.Parser/Garage.Parser.csproj",
-      "msbuildProject": "../Garage.Parser/Garage.Parser.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Garage.BusinessLogic >= 1.0.0",
       "Garage.Model >= 1.0.0",
-      "Garage.Parser >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.7",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.7",
@@ -9720,11 +9704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Стажировка\\Новая папка\\FifthHomework\\Garage.API.csproj",
+      "projectUniqueName": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\FifthHomework\\Garage.API.csproj",
       "projectName": "Garage.API",
-      "projectPath": "D:\\Стажировка\\Новая папка\\FifthHomework\\Garage.API.csproj",
+      "projectPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\FifthHomework\\Garage.API.csproj",
       "packagesPath": "C:\\Users\\Supre\\.nuget\\packages\\",
-      "outputPath": "D:\\Стажировка\\Новая папка\\FifthHomework\\obj\\",
+      "outputPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\FifthHomework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Supre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9741,14 +9725,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Стажировка\\Новая папка\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj": {
-              "projectPath": "D:\\Стажировка\\Новая папка\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj"
+            "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj"
             },
-            "D:\\Стажировка\\Новая папка\\Garage.Model\\Garage.Model.csproj": {
-              "projectPath": "D:\\Стажировка\\Новая папка\\Garage.Model\\Garage.Model.csproj"
-            },
-            "D:\\Стажировка\\Новая папка\\Garage.Parser\\Garage.Parser.csproj": {
-              "projectPath": "D:\\Стажировка\\Новая папка\\Garage.Parser\\Garage.Parser.csproj"
+            "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Model\\Garage.Model.csproj": {
+              "projectPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Model\\Garage.Model.csproj"
             }
           }
         }

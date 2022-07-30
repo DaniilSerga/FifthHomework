@@ -10,7 +10,6 @@
         "dependencies": {
           "Garage.BusinessLogic": "1.0.0",
           "Garage.Model": "1.0.0",
-          "Garage.Parser": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.7",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.7",
@@ -2274,11 +2273,6 @@
         "runtime": {
           "Garage.Model.dll": {}
         }
-      },
-      "Garage.Parser/1.0.0": {
-        "runtime": {
-          "Garage.Parser.dll": {}
-        }
       }
     }
   },
@@ -3533,11 +3527,6 @@
       "sha512": ""
     },
     "Garage.Model/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Garage.Parser/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

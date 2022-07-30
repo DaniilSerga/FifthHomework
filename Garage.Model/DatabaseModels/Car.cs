@@ -18,6 +18,6 @@ namespace Garage.Model.DatabaseModels
 
         public int DriverId { get; set; }
 
-        public Driver Driver { get; set; }
+        public Driver? Driver { get; set; } = new();
     }
 }

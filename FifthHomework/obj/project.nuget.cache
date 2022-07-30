@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0iOQVAqkjKF84R+ZWFd3atWQxXtDZQi8IOOiSw+UYCuNyIc1FYrOtd/VvaQLqcYg3ZovFor7Zz1r5mnQCLSczQ==",
+  "dgSpecHash": "F58znxpZzPf16OBFUclIrlM4FJ5e4D5MpCpPvwgT7Tvj1FbKYCbgxJ3kW3kZ0947TT4huNhOWkGXjCgLxeBFxQ==",
   "success": true,
-  "projectFilePath": "D:\\Стажировка\\Новая папка\\FifthHomework\\Garage.API.csproj",
+  "projectFilePath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\FifthHomework\\Garage.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Supre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

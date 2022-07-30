@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BdiVokrjy7pPpqcavS1PKg/Dl4/2vKsYL8M9ZCvVPfa4VHMPnt6yi4kuWj6oUU/lJpA///poWjdh+AFWxen13g==",
+  "dgSpecHash": "6zrn7NjAWCihgBLnAKZLmMmHcZAhAvfgM0d71Tr/tCMg7Gqc8Emad0NI4AcMz6B9+h8nAb9dv6ru9bMppDk96g==",
   "success": true,
-  "projectFilePath": "D:\\Стажировка\\Новая папка\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Supre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

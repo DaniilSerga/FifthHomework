@@ -17,13 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Garage.BusinessLogic\Garage.BusinessLogic.csproj" />
     <ProjectReference Include="..\Garage.Model\Garage.Model.csproj" />
-    <ProjectReference Include="..\Garage.Parser\Garage.Parser.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1793,11 +1793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Стажировка\\Новая папка\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
       "projectName": "Garage.BusinessLogic",
-      "projectPath": "D:\\Стажировка\\Новая папка\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\Supre\\.nuget\\packages\\",
-      "outputPath": "D:\\Стажировка\\Новая папка\\Garage.BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Supre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1814,8 +1814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Стажировка\\Новая папка\\Garage.Model\\Garage.Model.csproj": {
-              "projectPath": "D:\\Стажировка\\Новая папка\\Garage.Model\\Garage.Model.csproj"
+            "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Model\\Garage.Model.csproj": {
+              "projectPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Model\\Garage.Model.csproj"
             }
           }
         }

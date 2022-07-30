@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Стажировка\\Новая папка\\Garage.Parser\\Garage.Parser.csproj",
+      "projectUniqueName": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Parser\\Garage.Parser.csproj",
       "projectName": "Garage.Parser",
-      "projectPath": "D:\\Стажировка\\Новая папка\\Garage.Parser\\Garage.Parser.csproj",
+      "projectPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Parser\\Garage.Parser.csproj",
       "packagesPath": "C:\\Users\\Supre\\.nuget\\packages\\",
-      "outputPath": "D:\\Стажировка\\Новая папка\\Garage.Parser\\obj\\",
+      "outputPath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Parser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Supre\\AppData\\Roaming\\NuGet\\NuGet.Config",

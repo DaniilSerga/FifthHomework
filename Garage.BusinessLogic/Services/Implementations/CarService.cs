@@ -9,6 +9,11 @@ namespace Garage.BusinessLogic.Services.Implementations
     {
         private readonly ApplicationContext _context;
 
+        public CarService(ApplicationContext context)
+        {
+            _context = context;
+        }
+
         public List<Car> GetCars() => _context.Cars.AsNoTracking().ToList();
 
         public Car Get(int id)

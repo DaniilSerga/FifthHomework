@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cK4JXY/QUu3o5oE4A9GZsURYTf7b+V7SPjgF2VEIokd4FVSrU7p0wRUfUbpKMP/GnmuN3grU6YVzcVPj0+CK8g==",
+  "dgSpecHash": "k3K4+0H3sIUis28QYWyedjQtfFrBpy9jhMNa0MKEoFpfyNKFM4/mqfHPufNQFJFv4hCmcREFXmXk2u6MAzfaeQ==",
   "success": true,
-  "projectFilePath": "D:\\Стажировка\\Новая папка\\Garage.Model\\Garage.Model.csproj",
+  "projectFilePath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Model\\Garage.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Supre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
