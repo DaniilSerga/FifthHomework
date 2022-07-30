@@ -1,0 +1,14 @@
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Model.deps.json
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Model.runtimeconfig.json
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Model.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Model.pdb
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.csproj.AssemblyReference.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.AssemblyInfoInputs.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.AssemblyInfo.cs
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.csproj.CoreCompileInputs.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\refint\Garage.Model.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.pdb
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.genruntimeconfig.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\ref\Garage.Model.dll
