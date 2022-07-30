@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Garage.Model.DatabaseModels
@@ -18,6 +13,6 @@ namespace Garage.Model.DatabaseModels
 
         public int DriverId { get; set; }
 
-        public Driver? Driver { get; set; } = new();
+        public Driver? Driver { get; set; }
     }
 }

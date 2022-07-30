@@ -13,6 +13,6 @@ namespace Garage.Model.DatabaseModels
 
         public int Age { get; set; }
 
-        public List<Car> Cars { get; set; } = new();
+        public Car? Car { get; set; } = new();
     }
 }
