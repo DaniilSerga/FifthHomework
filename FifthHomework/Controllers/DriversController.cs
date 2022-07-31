@@ -15,10 +15,12 @@ namespace Garage.API.Controllers
     public class DriversController : ControllerBase
     {
         private readonly IDriverService _driverService;
+        private readonly ITokenService _tokenService;
 
-        public DriversController(IDriverService driverService)
+        public DriversController(IDriverService driverService, ITokenService tokenService)
         {
             _driverService = driverService;
+            _tokenService = tokenService;
         }
 
         // GET: api/Drivers
@@ -45,7 +47,7 @@ namespace Garage.API.Controllers
 
         // POST: api/Drivers
         [HttpPost("register")]
-        public IActionResult Register(RegisterDto registerDto)
+        public ActionResult<DriverDto> Register(RegisterDto registerDto)
         {
             if (_driverService.DriverExists(registerDto.Name))
             {
@@ -64,11 +66,15 @@ namespace Garage.API.Controllers
 
             _driverService.Create(driver);
 
-            return Ok();
+            return new DriverDto()
+            {
+                Name = driver.Name,
+                Token = _tokenService.CreateToken(driver)
+            };
         }
 
         [HttpPost("login")]
-        public ActionResult<Driver> Login(LoginDto loginDto)
+        public ActionResult<DriverDto> Login(LoginDto loginDto)
         {
             var driver = _driverService.Get(loginDto.Name);
 
@@ -89,7 +95,11 @@ namespace Garage.API.Controllers
                 }
             }
 
-            return driver;
+            return new DriverDto()
+            {
+                Name = driver.Name,
+                Token = _tokenService.CreateToken(driver)
+            };
         }
 
         // DELETE: api/Drivers/5

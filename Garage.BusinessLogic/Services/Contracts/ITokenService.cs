@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Garage.BusinessLogic.Services.Contracts
 {
-    internal interface ITokenService
+    public interface ITokenService
     {
         string CreateToken(Driver driver);
     }
