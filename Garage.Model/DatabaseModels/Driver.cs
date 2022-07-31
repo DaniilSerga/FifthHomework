@@ -13,6 +13,10 @@ namespace Garage.Model.DatabaseModels
 
         public int Age { get; set; }
 
+        public byte[] PasswordHash { get; set; }
+
+        public byte[] PasswordSalt { get; set; }
+
         public Car? Car { get; set; } = new();
     }
 }

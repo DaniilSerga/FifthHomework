@@ -28,6 +28,18 @@ namespace Garage.BusinessLogic.Services.Implementations
             return driver;
         }
 
+        public Driver? Get(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+            {
+                throw new ArgumentNullException(nameof(name), "Name was null or empty.");
+            }
+
+            return _context.Drivers.FirstOrDefault(x => x.Name == name);
+        }
+
+        public bool DriverExists(string name) => _context.Drivers.Any(x => x.Name.ToLower() == name.ToLower());
+
         public void Create(Driver driver)
         {
             if (driver is null)
@@ -72,5 +84,6 @@ namespace Garage.BusinessLogic.Services.Implementations
 
             _context.SaveChanges();
         }
+
     }
 }
