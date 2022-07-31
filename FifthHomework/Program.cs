@@ -1,39 +1,57 @@
 using Garage.BusinessLogic.Services.Contracts;
 using Garage.BusinessLogic.Services.Implementations;
+using Garage.Model.Mapper;
 using Garage.Model;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
+#region DataBase configuration
 string connection = builder.Configuration.GetConnectionString("DefaultConnection");
-
-// Add services to the container.
 builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(connection));
+#endregion
+
 builder.Services.AddControllers();
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(options =>
-                {
-                    options.TokenValidationParameters = new TokenValidationParameters
-                    {
-                        ValidateIssuerSigningKey = true,
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["TokenKey"])),
-                        ValidateIssuer = false,
 
-                        ValidateAudience = false,
+#region JWT region
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+{
+    options.RequireHttpsMetadata = false;
+    options.SaveToken = true;
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateIssuerSigningKey = true,
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Yh2k7QSu4l8CZg5p6X3Pna9L0Miy4D3Bvt0JVr87UcOj69Kqw5R2Nmf4FWs03Hdx"))
+    };
+});
+#endregion
 
-                    };
-                });
-
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+#region Adding services
 builder.Services.AddTransient<ICarService, CarService>();
 builder.Services.AddTransient<IDriverService, DriverService>();
 builder.Services.AddScoped<ITokenService, TokenService>();
+#endregion
+
+#region AutoMapper region
+var mappingConfig = new MapperConfiguration(mc =>
+{
+    mc.AddProfile(new MappingProfile());
+});
+
+IMapper mapper = mappingConfig.CreateMapper();
+builder.Services.AddSingleton(mapper);
+#endregion
 
 var app = builder.Build();
 
@@ -46,6 +64,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// For use of JWT authorization
 app.UseAuthentication();
 app.UseAuthorization();
 

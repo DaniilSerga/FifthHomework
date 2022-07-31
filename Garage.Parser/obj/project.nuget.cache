@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3Nl02Ft5Xfiuo8pBAr9YyYExv7olFEp53NtyXFGlyDP44FFVpWtAQZJ8B92pyKlVJP4sd3SOyqxVexB1dZk4kw==",
+  "dgSpecHash": "YFJW08R/OfrFI4ZKZqR+u1bIikKd7i0muuZnCQ75BcgtUNUxBPWGhh17K9cgmEvu45kF0L0afMAKufCSEftykA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.Parser\\Garage.Parser.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Supre\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -264,3 +264,5 @@ C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.BusinessLogic.pdb
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Model.pdb
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\AutoMapper.dll
