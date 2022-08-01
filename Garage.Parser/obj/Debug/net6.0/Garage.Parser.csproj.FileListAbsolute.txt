@@ -1,0 +1,17 @@
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\Garage.Parser.exe
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\Garage.Parser.deps.json
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\Garage.Parser.runtimeconfig.json
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\Garage.Parser.pdb
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.csproj.AssemblyReference.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.AssemblyInfoInputs.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.AssemblyInfo.cs
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.csproj.CoreCompileInputs.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\refint\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.pdb
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.genruntimeconfig.cache
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\ref\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.csproj.CopyComplete
