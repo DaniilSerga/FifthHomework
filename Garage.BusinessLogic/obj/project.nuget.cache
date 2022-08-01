@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zNn7opbY0NQbX0R/+drcjy4ha3rJryffcgu5W1TFh6jadjYZde1ol2nj1eo4uj0IOtiGMy7YGan/empflxw6Fw==",
+  "dgSpecHash": "P+i0g78afc+fE8Rhu9izNlgH06KWqngMpD42IQBPe6Hp9JFTNVyRdLijSo8Ro06JrTjAf3VYXtVROWA3N9EeBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\Garage.BusinessLogic\\Garage.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Supre\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Supre\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

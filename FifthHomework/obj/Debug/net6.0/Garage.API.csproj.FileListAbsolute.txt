@@ -266,3 +266,9 @@ C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.deps.json
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.runtimeconfig.json
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.exe
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\FifthHomework\bin\Debug\net6.0\Garage.Parser.pdb

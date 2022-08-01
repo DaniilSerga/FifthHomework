@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Garage.Model.DatabaseModels;
+using Garage.Parser;
 
 namespace Garage.Model
 {

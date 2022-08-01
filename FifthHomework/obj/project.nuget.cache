@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oe4kBU2DiKHXmo1O9aByS9sQOGJmRwUfMRE0xqp0PRfcEtsYio0ZVrJmDWRFTITPVqkGGtJFbND5K181nQ5vTA==",
+  "dgSpecHash": "fPCApQSdBEvW3elaWKi10SI6k4AF/JWlMW6Pp62B2P7O/j0lM+FcXK8ZhHKHfNc2X+tsrZOwHSsapaiaYWDJVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Supre\\source\\repos\\FifthHomework\\FifthHomework\\Garage.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Supre\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Supre\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Supre\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

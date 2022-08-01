@@ -13,3 +13,5 @@ C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\refint\
 C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.pdb
 C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.genruntimeconfig.cache
 C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\ref\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Parser\obj\Debug\net6.0\Garage.Parser.csproj.CopyComplete

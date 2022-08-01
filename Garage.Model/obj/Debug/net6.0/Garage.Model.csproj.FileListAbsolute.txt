@@ -12,3 +12,9 @@ C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\refint\G
 C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.pdb
 C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.genruntimeconfig.cache
 C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\ref\Garage.Model.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Parser.deps.json
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Parser.runtimeconfig.json
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Parser.exe
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Parser.dll
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\bin\Debug\net6.0\Garage.Parser.pdb
+C:\Users\Supre\source\repos\FifthHomework\Garage.Model\obj\Debug\net6.0\Garage.Model.csproj.CopyComplete
